@@ -48,5 +48,6 @@ p {
 /* /////////Section Styles //////////*/
 
 header a {
-  
+  color: rgb(110, 127, 120);
+  text-decoration: none;
 }
