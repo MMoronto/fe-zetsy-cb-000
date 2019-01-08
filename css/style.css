@@ -48,6 +48,11 @@ p {
 /* /////////Section Styles //////////*/
 
 header a {
+  color: rgb(150, 173, 166);
+  text-decoration: none;
+}
+
+header a:hover {
   color: rgb(110, 127, 120);
   text-decoration: none;
 }
