@@ -80,3 +80,8 @@ header a:hover {
 #press img:hover {
   border: 5px rgb(110, 127, 120) solid;
 }
+
+footer {
+  text-align: right;
+  
+}
