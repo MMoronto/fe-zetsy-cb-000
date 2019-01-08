@@ -57,5 +57,5 @@ header a:hover {
 }
 
 #featured img {
-  border: 5px rgb(150, 173, 166) ;
+  border: 5px rgb(150, 173, 166) solid;
 }
