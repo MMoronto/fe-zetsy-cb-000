@@ -59,3 +59,8 @@ header a:hover {
 #featured img {
   border: 5px rgb(150, 173, 166) solid;
 }
+
+#featured a {
+  color: rgb(150, 173, 166);
+  text-decoration: none;
+}
